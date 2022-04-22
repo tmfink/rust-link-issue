@@ -1,0 +1,12 @@
+[package]
+
+name = "simple-link"
+version = "0.1.0"
+authors = ["Travis Finkenauer <tmfinken@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+description = "shows linking error on NetBSD"
+edition = "2021"
+
+[build-dependencies]
+cc = "1"
