@@ -1,11 +1,11 @@
 [package]
 
-name = "simple-link"
+name = "simple-link-test"
 version = "0.1.0"
 authors = ["Travis Finkenauer <tmfinken@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-description = "shows linking error on NetBSD"
+description = "simple linking test"
 edition = "2021"
 
 [build-dependencies]
