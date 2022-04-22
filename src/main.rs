@@ -10,7 +10,7 @@ extern "C" {
 
 fn main() {
     unsafe {
-        dbg!(foo());
+        println!("{:x}", foo());
     }
 
     // Uncomment to workaround link issue
