@@ -9,5 +9,5 @@ for arg in "$@"; do
     esac
 done
 
-# add link args to end (again)
+# copy link args to end
 exec "${LINKER}" "$@" ${link_args}
