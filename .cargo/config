@@ -1,0 +1,3 @@
+[target.x86_64-unknown-netbsd]
+# Uncomment to workaround linking bug
+# linker = "rust_link_fix.sh"
